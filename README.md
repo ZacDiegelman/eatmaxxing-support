@@ -1,6 +1,6 @@
-# EatMaxxing support site
+# DailyBread support site
 
-Support, privacy policy and terms pages for the EatMaxxing iPhone app.
+Support, privacy policy and terms pages for the DailyBread iPhone app.
 
 Published with GitHub Pages: https://zacdiegelman.github.io/eatmaxxing-support/
 
